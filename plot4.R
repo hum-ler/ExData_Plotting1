@@ -57,7 +57,7 @@ plot(power$date.time,
      power$Global_reactive_power,
      type = "l",
      xlab = "datetime",
-     ylab = "Global_reachtive_power")
+     ylab = "Global_reactive_power")
 
 dev.off()
 
